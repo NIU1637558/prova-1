@@ -1,2 +1,3 @@
 archiu1
 modificació a1
+mod a6
